@@ -1,3 +1,5 @@
+This project has been moved to [blessedjs/cli](https://github.com/blessedjs/cli)
+
 # blessed-cli
 
 A CLI to create / scaffold [blessed]() apps with conventional folder structure and project setup.
